@@ -28,3 +28,4 @@ Discordのセルフボットツールです。<br>
 - `.bypass <bot("yax" only)>` - Yax Botをバイパスします(認証)
 - `.eval <code>` - pythonコードを実行します
 - `.finfo` - 個人情報の塊を送信します
+- `.analyze` - サーバーのBot等から荒らしやすさを調査します
